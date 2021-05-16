@@ -1,4 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=PAN-Ziyue&hide_border=true&show_icons=true&theme=dark">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=PAN-Ziyue&show_icons=true&count_private=true">
+
+
 
 ### Hi there, this is Ziyue! 👋
 
